@@ -1,5 +1,5 @@
 {
-  "name": "ordr-menu-api",
+  "name": "caretta-ordr-menu-api",
   "version": "1.0.0",
   "description": "api for ordr-menu",
   "main": "ordr_api.js",
