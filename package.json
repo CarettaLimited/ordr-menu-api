@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarettaLimited/ordr-menu-api/issues"
   },
-  "homepage": "https://github.com/CarettaLimited/ordr-menu-api#readme"
+  "homepage": "https://github.com/CarettaLimited/ordr-menu-api#readme",
+  "dependencies": {
+    "mongodb": "~2.1.19"
+  }
 }
