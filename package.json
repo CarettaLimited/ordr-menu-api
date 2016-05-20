@@ -2,7 +2,7 @@
   "name": "ordr-menu-api",
   "version": "1.0.0",
   "description": "api for ordr-menu",
-  "main": "index.js",
+  "main": "ordr_api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
