@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MyMongoDS": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "ordrmenu",
+    "password": "M2nj2iBNw5ay",
+    "name": "MyMongoDS",
+    "user": "ordrClient",
+    "connector": "mongodb"
+  }
+}
