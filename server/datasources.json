@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "MyMongoDS": {
-    "host": "127.0.0.1",
+    "host": "localhost",
     "port": 27017,
     "database": "ordrmenu",
     "password": "M2nj2iBNw5ay",
